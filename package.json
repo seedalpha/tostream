@@ -1,0 +1,32 @@
+{
+  "name": "tostream",
+  "version": "1.0.0",
+  "description": "convert String, Buffer, Readable to Readable stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seedalpha/isstream.git"
+  },
+  "keywords": [
+    "stream",
+    "string",
+    "buffer",
+    "convert"
+  ],
+  "author": "Vladimir Popov <vlad@seedalpha.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seedalpha/isstream/issues"
+  },
+  "homepage": "https://github.com/seedalpha/isstream",
+  "dependencies": {
+    "isstream": "^0.1.2",
+    "string-to-stream": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
