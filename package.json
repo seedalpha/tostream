@@ -1,6 +1,6 @@
 {
-  "name": "tostream",
-  "version": "1.0.0",
+  "name": "@seedalpha/tostream",
+  "version": "1.0.10",
   "description": "convert String, Buffer, Readable to Readable stream",
   "main": "index.js",
   "scripts": {
